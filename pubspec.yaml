@@ -10,7 +10,7 @@ environment:
   flutter: ">=1.20.0"
 
 dependencies:
-  archive: ^3.3.7
+  archive: ^4.0.2
   cli_script: ^1.0.0
   crypto: ^3.0.3
   dio: ^5.2.1+1
